@@ -1,1 +1,0 @@
-![](./auxiliary_files/sine_wave.svg)
